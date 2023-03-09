@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  codepath-project2
 //
-//  Created by Vaibhav on 07/03/23.
+//  Created by Vaibhav on 07/03/23
 //
 
 import UIKit
